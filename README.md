@@ -23,6 +23,13 @@ rndcli -d 2
 
 ```
 
+# Installation
+
+``` 
+ npm install rndcli -g
+ 
+```
+
 
 option : 0 - available devices count
 
