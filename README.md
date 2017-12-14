@@ -22,6 +22,7 @@ rndcli -d option
 rndcli -d 2
 
 ```
+option : 0 - available devices count
 
 # Installation
 
@@ -31,5 +32,5 @@ rndcli -d 2
 ```
 
 
-option : 0 - available devices count
+
 
